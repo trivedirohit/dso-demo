@@ -1,4 +1,4 @@
-# Installation Steps for Dependency Track
+# New Installation Steps for Dependency Track
 
 - Setup helm repo
 
