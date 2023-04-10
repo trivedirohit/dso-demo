@@ -6,6 +6,7 @@
   helm repo add evryfs-oss https://evryfs.github.io/helm-charts/
 
   helm repo update
+  modifying a line
   ```
 
 - Create a file with below contents - values.yaml
