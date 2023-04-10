@@ -1,11 +1,12 @@
-# New Installation Steps for Dependency Track
+#Installation Steps for Dependency Track
 
 - Setup helm repo
 
   ```s
   helm repo add evryfs-oss https://evryfs.github.io/helm-charts/
 
-  helm repo update
+ #helm repo update
+  line no8 commented 
   ```
 
 - Create a file with below contents - values.yaml
